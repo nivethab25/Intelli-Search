@@ -1,0 +1,15 @@
+hr=human resources
+sce=student center east
+scw=student center west
+sel=science and engineering laboratory
+etl=educational technology lab
+ssb=student services building
+ois=office of international services
+ta=teaching assistant
+ga=graduate assistant
+gra=graduate research assistant
+seo=science and engineering office
+vpn=virtual private network
+tem=travel and expense management
+accc=academic computing and communications center
+cs=computer science
